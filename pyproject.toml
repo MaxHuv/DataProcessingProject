@@ -1,0 +1,28 @@
+[project]
+name = "TBD"
+version = "1.0"
+authors = [
+    {name = "Maxime Huvelin", email = "maxime.huvelin@estaca.eu"},
+]
+description = "TBD"
+readme = "README.md"
+license = {text = "MIT"}
+keywords = ["TBD", "TBD"]
+classifiers = [
+    "Programming Language :: Python :: 3.12",
+]
+[project.urls]
+homepage = "TBD"
+documentation = "TBD"
+repository = "TBD"
+
+dependencies = [
+    "pytest",
+    "pytest-cov",
+    "pylint",
+    "black",
+    "sphinx",
+    "sphinx_rtd_theme",
+    "myst_parser",
+    "coverage",
+]
